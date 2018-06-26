@@ -1,0 +1,14 @@
+1521644041779	geckodriver	INFO	geckodriver 0.18.0
+1521644041836	geckodriver	INFO	Listening on 127.0.0.1:51359
+1521644043988	geckodriver::marionette	INFO	Starting browser D:\Firefox\firefox.exe with args ["-marionette"]
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1521644045358	Marionette	INFO	Enabled via --marionette
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1521644048136	Marionette	INFO	Listening on port 51371
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1521644048320	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 4844, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4844, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
